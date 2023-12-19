@@ -44,7 +44,7 @@ float flo3 = (float)123.45;
 // Integer <-> String
 int int7 = 12345;
 string str7 = int7.ToString();
-Console.WriteLine(str7);  // 12345
+Console.WriteLine(str7);  // 12345 
 
 string str8 = "6789";
 Console.WriteLine(str8 + 1);  // 67891
