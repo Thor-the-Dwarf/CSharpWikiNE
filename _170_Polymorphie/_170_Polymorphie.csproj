@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>WolfIstKeinHund</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\_030_InterfacesOnInterface\_030_InterfacesOnInterface.csproj" />
+      <ProjectReference Include="..\_150_AbstractClass\_150_AbstractClass.csproj" />
+    </ItemGroup>
+
+</Project>
